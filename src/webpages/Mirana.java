@@ -10,6 +10,7 @@ public class Mirana {
 		System.out.println("Leading the way!");
 		String a = "s";
 		String b = "b";
+		String c = "c";
 	}
 
 }
