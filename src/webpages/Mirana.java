@@ -9,6 +9,7 @@ public class Mirana {
 		// TODO Auto-generated method stub
 		System.out.println("Leading the way!");
 		String a = "s";
+		String b = "b";
 	}
 
 }
